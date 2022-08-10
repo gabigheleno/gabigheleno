@@ -1,4 +1,4 @@
-Olá, sou a Gabriela e estudo desenvolvimento mobile 👋
+### Olá 👋
 <br></br>
 
 <div align="center">
