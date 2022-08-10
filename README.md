@@ -23,4 +23,3 @@
       <a href = "mailto:gabrielagheleno@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
  
-
