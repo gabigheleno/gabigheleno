@@ -1,4 +1,4 @@
-<h1>Olá, eu sou a Gabriela!</h1>
+<h1>Olá, eu sou a Gabriela e estudo desenvolvimento mobile</h1>
 <br></br>
 
 <div align="center">
