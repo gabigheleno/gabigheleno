@@ -1,6 +1,4 @@
 ### Olá 👋
-### Estudo desenvolvimento Mobile
-
 <br></br>
 <br></br>
 <div align="center">
