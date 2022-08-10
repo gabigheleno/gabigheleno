@@ -1,4 +1,4 @@
-### Olá 👋
+<h1>Olá, eu sou a Gabriela!</h1>
 <br></br>
 
 <div align="center">
@@ -18,7 +18,7 @@
 </div>
   
 <div align="center">
-   <h2>Contatos </h2>
+   <h2>Contato </h2>
       <a href="https://www.linkedin.com/in/gabriela-gomes-heleno//" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
       <a href = "mailto:gabrielagheleno@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
