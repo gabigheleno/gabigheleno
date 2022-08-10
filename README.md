@@ -1,5 +1,5 @@
-### Olá 👋
-
+### Olá, sou a Gabriela e estudo desenvolvimento mobile 👋
+<br></br>
 
 <div align="center">
   <a href="https://github.com/gabigheleno">
